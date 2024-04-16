@@ -4,7 +4,7 @@ import cat2 from "../assets/images/category-2.jpg";
 import cat3 from "../assets/images/category-3.jpg";
 import cat4 from "../assets/images/category-4.jpg";
 import cat5 from "../assets/images/category-5.jpg";
-import cat6 from "../assets/images/category-6.jpg";
+// import cat6 from "../assets/images/category-6.jpg";
 import { BsArrowRight } from "react-icons/bs";
 
 const Category = () => {
@@ -67,7 +67,7 @@ const Category = () => {
               <h3 className="text-xl lg:text-2xl "> Electronics </h3>
               <BsArrowRight />
             </div>
-            <img src={cat6} alt="" />
+            <img src={cat5} alt="" />
           </div>
         </div>
       </div>
