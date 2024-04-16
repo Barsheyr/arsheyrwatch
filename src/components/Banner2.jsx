@@ -1,6 +1,6 @@
 import React from "react";
-import Ban22 from "../assets/images/Banners2-1.jpg";
-import Ban21 from "../assets/images/Banners2-2.jpg";
+import Ban22 from "../assets/images/banners2-1.jpg";
+import Ban21 from "../assets/images/banners2-2.jpg";
 import { BsArrowRight } from "react-icons/bs";
 
 const Banner2 = () => {
